@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RockPaperScissors</string>
+    <string name="btnRock">Rock</string>
+    <string name="btnPaper">Paper</string>
+    <string name="btnScissor">Scissor</string>
+    <string name="mySocre">Score: 0</string>
+    <string name="myTimer">Time: 0</string>
+    <string name="myEnemy">ENEMY</string>
+    <string name="reset">Play Again</string>
+</resources>
